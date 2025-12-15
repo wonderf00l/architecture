@@ -1,4 +1,4 @@
-# Проектирование платформы "Букмейт" - сервиса для чтения и прослушивания книг
+# Проектирование платформы "Яндекс книги"(Букмейт) - сервиса для чтения и прослушивания книг
 
 ## Содержание
 
@@ -374,4 +374,3 @@
 ## Источники: <a name="sources"></a>
 
 1. [bookmate.ru Traffic Analytics, Ranking Stats & Tech Stack | Similarweb](https://www.similarweb.com/website/bookmate.ru/#demographics)
-# architecture
